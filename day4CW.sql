@@ -16,3 +16,4 @@ SET stock = stock - 2
 WHERE price >500
 
 DELETE FROM books WHERE id=3
+
